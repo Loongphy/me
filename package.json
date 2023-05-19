@@ -10,6 +10,9 @@
     "astro": "astro"
   },
   "dependencies": {
-    "astro": "^2.4.1"
+    "astro": "^2.5.0"
+  },
+  "devDependencies": {
+    "unocss": "^0.51.13"
   }
 }
